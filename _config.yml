@@ -1,6 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
+theme: jekyll-theme-midnight
 
 # Name of your site (displayed in the header)
 name: Mark Cramer
@@ -23,7 +24,7 @@ footer-links:
   flickr:
   github: mdcramer
   instagram:
-  linkedin: in/mcramer/
+  linkedin: mcramer
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: markdcramer
